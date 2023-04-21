@@ -1,0 +1,93 @@
+html {
+color: white;
+background-color: #000000;
+font-family: "Roboto Slab", sans-serif;
+}
+
+body{
+
+
+}
+
+h1 {
+    text-align: center;
+    font-weight: normal;
+    text-shadow: 5px;
+}
+
+#b1 {
+  width: 150px;
+  height: 40px;
+}
+
+#k1 {
+    padding: 20px;
+    word-spacing:300px;
+  color: white;
+  background-color: #1E2021;
+  border: 1px solid rgb(137, 136, 136);
+}
+
+#k2 {
+width: 300px;
+height: 800px;
+  border: 1px solid rgb(137, 136, 136);
+background-color: #1E2021;
+    white-space: nowrap; 
+    overflow: hidden;
+margin-top: 10px;
+  float: left;
+  color: white;
+
+}
+
+#k3 {
+    border: 1px solid rgb(137, 136, 136);
+    width: 1186px;
+    height: 800px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: #1E2021;
+    color: white;
+}
+#k4 {
+  text-align: center;
+}
+
+.K {
+ width: 800px;
+     height:25px;
+	float:left;
+	margin:0;
+}
+
+
+}
+.B1:hover
+{
+    background-color: #ffffff;
+    color: #050505;
+}
+
+.p{
+    color: #ffffff;
+    overflow: gidden;
+    text-decoration: none;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.p:hover {
+    color: blue;
+}
+
+.indir {
+  padding: 10px;
+  border: solid 1px white;
+}
+
+.dosya {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
